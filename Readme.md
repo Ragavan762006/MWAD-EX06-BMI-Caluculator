@@ -189,6 +189,9 @@ export default App;
 
 
 ## OUTPUT
+<img width="1918" height="1037" alt="image" src="https://github.com/user-attachments/assets/4e71e3d4-f22f-4363-8137-649635dc3fbb" />
+<img width="1906" height="1023" alt="image" src="https://github.com/user-attachments/assets/a8532057-dc93-4a39-94c8-db3d72335447" />
+<img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/4bab008d-6aaa-45e9-9b1e-a3e145c1a336" />
 
 
 ## RESULT
